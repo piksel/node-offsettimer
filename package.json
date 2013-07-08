@@ -1,17 +1,23 @@
 {
   "name": "offsettimer",
   "version": "0.0.2",
-  "description": "Functions for setting intervals and timers at a spicific offset",
+  "description": "Functions for setting intervals and timers at a specific offset",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
+  "devDependencies": {
+    "mocha": "1.9.x" 
+  }
   "repository": {
     "type": "git",
-    "url": "piksel/node-offsettimer"
+    "url": "https://github.com/piksel/node-offsettimer.git"
   },
   "keywords": [
-    "timer"
+    "timer",
+    "setinterval",
+    "offset",
+    "delayed"
   ],
   "author": "nils måsén, piksel bitworks",
   "license": "BSD"
