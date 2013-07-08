@@ -7,7 +7,7 @@ var time = require('./lib/time')
 
 module.exports = {
   setOffsetInterval: require('./lib/setoffsetinterval'),
-  setOffsetTimer: require('./lib/setoffsettimer'),
+//  setOffsetTimer: require('./lib/setoffsettimer'),
   _sec: time._sec,
   _min: time._min,
   _hrs: time._hrs,
