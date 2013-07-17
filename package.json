@@ -4,7 +4,7 @@
   "description": "Functions for setting intervals and timers at a specific offset",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -R list"
   },
   "devDependencies": {
     "mocha": "1.9.x" 
